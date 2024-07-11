@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
